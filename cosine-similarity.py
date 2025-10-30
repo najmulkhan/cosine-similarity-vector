@@ -1,3 +1,4 @@
+# This codebase is just an example
 import math
 
 def cosine_similarity(v1, v2):
